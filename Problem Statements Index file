@@ -8,3 +8,7 @@ Computer science interview problems to improve problem solving skills.
 2. Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.
 -> For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
 -> LowestPositiveInteger.java
+
+3. Given an unsorted array A of size N of non-negative integers, find a continuous sub-array which adds to a given number S.
+-> For example, the input [1 2 3 4 5 6 7 8 9 10] and sum 15 should give indexes 0 and 4 (for subArray [1 2 3 4 5]).
+-> ContinuousSubArraySum.java
